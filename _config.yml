@@ -1,5 +1,6 @@
-name:          Code Guide by @mdo
+name:          PayScale Code Guide
 description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
+original:      Heavily based on Code Guide by @mdo.
 url:           http://codeguide.co
 
 markdown:      rdiscount
