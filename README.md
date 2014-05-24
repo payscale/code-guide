@@ -11,7 +11,7 @@ Code Guide is a project for documenting standards for developing flexible, durab
 Released under MIT by, and copyright 2014, @mdo.
 
 ### Thanks
-Heavily, heavily based on [Code Guide by @mdo](http://mdo.github.io/code-guide)
+Heavily, heavily based on [Code Guide by @mdo](http://mdo.github.io/code-guide).
 
 Heavily inspired by [Idiomatic CSS](https://github.com/necolas/idiomatic-css) and the [GitHub Styleguide](http://github.com/styleguide).
 
