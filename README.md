@@ -14,20 +14,3 @@ Released under MIT by, and copyright 2014, @mdo.
 Heavily, heavily based on [Code Guide by @mdo](http://mdo.github.io/code-guide).
 
 Heavily inspired by [Idiomatic CSS](https://github.com/necolas/idiomatic-css) and the [GitHub Styleguide](http://github.com/styleguide).
-
-### Translations
-
-Translations are maintained by their creators and may not always be up to date with the original here.
-
-- [Chinese](http://zoomzhao.github.io/code-guide/) - Translated by [Zoom Zhao](https://github.com/ZoomZhao)
-- [Chinese, Traditional](http://juanitofatas.github.io/code-guide/) - Translated by [Juanito Fatas](https://github.com/JuanitoFatas)
-- [Czech](http://smedzlatko.github.io/) - Translated by [Martin Myslík](https://github.com/Smedzlatko)
-- [Indonesian](http://diagramatics.github.io/code-guide-id) - Translated by [Steven Sinatra](http://diagramatics.me)
-- [Italian](http://alessandro1997.github.io/code-guide/) - Translated by [Alessandro Desantis](https://github.com/alessandro1997)
-- [Portuguese](http://diegoeis.github.io/code-guide/) - Translated by [Diego Eis](http://tableless.com.br/)
-- [Russian](http://instanceofpro.github.io/code-guide/) - Translated by [Eugene Abrosimov](https://github.com/instanceofpro)
-- [Spanish](http://adrianayala.mx/code-guide/es/) - Translated by [Adrian Ayala](http://adrianayala.mx/)
-
-Have a translation you'd like to link to? Open a pull request to add it here. Be sure to keep it alphabetical.
-
-<3
